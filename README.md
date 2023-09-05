@@ -1,3 +1,5 @@
-# workshop-1
+# Tic tac toe!
 
-Test
+Install the application by running ```npm install```. 
+
+Start the application by running ```npm run dev```.
